@@ -7,7 +7,7 @@ I am passionate about data analysis and visualization, and I aim to help busines
 
 ---
 ### 🌐 Connect with Me
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abinayagoudjandhyala)  
+(https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abinayagoudjandhyala)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/abinayagoud)  
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/abinayagoud23)
 ---
@@ -27,7 +27,7 @@ I am passionate about data analysis and visualization, and I aim to help busines
 
 - **[Customer Sentiment Analysis](https://github.com/abinayagoudjandhyala/Customer-Sentiment-Analysis-Dashboard)**  
   Built a Power BI dashboard for customer sentiment analysis, featuring insights on NPS, CSAT, feedback trends, sentiment distribution, and root cause analysis.
-  ---
+---
 ### 📈 GitHub Stats & Top Languages
 
 <div style="display: flex; justify-content: space-between;">
