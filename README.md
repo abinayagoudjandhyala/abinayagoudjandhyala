@@ -1,77 +1,63 @@
-## Hi there 👋
-# Abinaya Goud Jandhyala  
 
-👩‍💻 **Data Enthusiast | Skilled in SQL, Excel, Tableau, Power BI, and Python**
+# Hey there, I'm Abinaya Goud Jandhyala 👋
 
-Welcome to my GitHub profile! I specialize in uncovering insights from data and creating impactful visualizations to drive data-informed decisions.
+**Data Enthusiast | SQL | Excel | Tableau | Power BI | Python**  
 
----
-
-## 🌐 Connect with Me  
-
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abinayagoudjandhyala)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abinayagoud)  
-
-📫 **Email**: [abinayagoud23@gmail.com](mailto:abinayagoud23@gmail.com)
+I'm passionate about data analysis and visualization. Currently diving deep into projects related to data science, machine learning, and data analytics. I enjoy solving real-world problems using data and sharing insights to help businesses make better decisions.  
+I'm always open to learning new skills and collaborating on exciting projects! 🌟
 
 ---
 
-## 🛠️ Skills  
-
-- **Data Analysis**:  
-  ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
-  Advanced proficiency in Excel, including data cleaning, pivot tables, and complex formulas.
-
-- **Data Visualization**:  
-  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
-  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power%20bi&logoColor=black)  
-  Expertise in creating dashboards and interactive visualizations for actionable insights.
-
-- **Databases & Querying**:  
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)  
-  Skilled in writing complex queries, joins, and aggregations to analyze and retrieve data.
-
-- **Programming**:  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-  Experienced in data analysis using libraries like Pandas, NumPy, and Matplotlib.
+### 🌐 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/abinayagoudjandhyala)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/abinayagoud)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2345B8D8.svg?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/abinayagoud23)
 
 ---
 
-## 🌟 Projects  
+### 🎓 Badges
+Here are the badges showcasing my skills:
 
-Here are some of my key projects that demonstrate my skills:  
+[![SQL Badge](https://img.shields.io/badge/SQL-%2312100E.svg?style=flat&logo=postgresql&logoColor=white)](https://www.hackerrank.com/profile/abinayagoud23)  
+[![Python Badge](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)](https://www.hackerrank.com/profile/abinayagoud23)  
+
+---
+
+### 🔧 Skills
+- **Data Analysis & Visualization**: Excel, Tableau, Power BI  
+- **Programming**: Python  
+- **Databases**: SQL  
+
+---
+
+### 🚀 Projects
 
 - **[COVID-19 Impact Analysis on Walmart Sales](https://github.com/abinayagoudjandhyala/covid19-walmart-sales-analysis)**  
-  🔹 Analyzed how COVID-19 affected Walmart's sales trends across product categories.  
-  **Skills Used**: Excel, Tableau, Python  
+  Analyzed how COVID-19 affected Walmart's sales trends across various categories using Python and Tableau.
 
 - **[Cryptocurrency Report Generator](https://github.com/abinayagoudjandhyala/crypto-report-generator)**  
-  🔹 Developed a Python-based tool to generate cryptocurrency market reports, including price trends and market sentiment analysis.  
-  **Skills Used**: Python, Tableau  
+  A Python tool to generate real-time cryptocurrency market reports.
 
 - **[Customer Sentiment Analysis](https://github.com/abinayagoudjandhyala/customer-sentiment-analysis)**  
-  🔹 Conducted sentiment analysis on customer reviews to provide actionable insights for businesses.  
-  **Skills Used**: SQL, Python, Power BI  
-
-- **[Olympics Data Analysis](https://github.com/abinayagoudjandhyala/olympics-data-analysis)**  
-  🔹 Performed historical analysis of Olympic data, uncovering trends in medal counts and athlete performance.  
-  **Skills Used**: Tableau, Python  
-
-- **[Supply Chain Optimization Study](https://github.com/abinayagoudjandhyala/supply-chain-optimization)**  
-  🔹 Analyzed supply chain data to optimize inventory management and logistics costs.  
-  **Skills Used**: Excel, SQL, Power BI  
+  Conducted sentiment analysis on customer reviews to classify sentiments and provide actionable insights.
 
 ---
 
-## 📈 GitHub Stats  
-
+### 📈 GitHub Stats
 ![Abinaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=abinayagoudjandhyala&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abinayagoudjandhyala&layout=compact&theme=radical)
 
 ---
 
-🌟 *"Transforming data into actionable insights."*  
-💬 Feel free to reach out for collaboration or discussions!
+### 📝 Talk to Me
+💻 I’m currently enhancing my skills and building impactful data projects!  
+💬 Feel free to reach out—I'm happy to help with anything.  
+📫 How to reach me: [@abinayagoudjandhyala](https://github.com/abinayagoudjandhyala)  
+
+---
+
+🌟 *"Turning data into actionable insights."*
+
 
 <!--
 **abinayagoudjandhyala/abinayagoudjandhyala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
