@@ -27,20 +27,21 @@ I am passionate about data analysis and visualization, and I aim to help busines
 
 - **[Customer Sentiment Analysis](https://github.com/abinayagoudjandhyala/Customer-Sentiment-Analysis-Dashboard)**  
   Built a Power BI dashboard for customer sentiment analysis, featuring insights on NPS, CSAT, feedback trends, sentiment distribution, and root cause analysis.
----
-### 📈 GitHub Stats & Top Languages
+  ---
+ ### 📈 GitHub Stats & Top Languages
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=abinayagoudjandhyala&show_icons=true&theme=radical&hide_title=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinayagoudjandhyala&layout=compact&theme=radical&hide_title=true" width="48%" />
 </div>
----
+
+ ---
 
 ### 📝 Talk to Me  
 💬 Feel free to ask me anything about data analysis and visualization.  
 📫 You can reach me on GitHub or LinkedIn!
 
----
+  ---
 
 🌟 *"Turning data into actionable insights."*
 
