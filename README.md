@@ -36,9 +36,10 @@ I am passionate about data analysis and visualization, and I aim to help busines
 </div>
 ---
 
-### 📝 Talk to Me
+### 📝 Talk to Me  
 💬 Feel free to ask me anything about data analysis and visualization.  
 📫 You can reach me on GitHub or LinkedIn!
+
 ---
 
 🌟 *"Turning data into actionable insights."*
