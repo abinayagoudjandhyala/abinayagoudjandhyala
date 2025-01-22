@@ -8,7 +8,7 @@ I am passionate about data analysis and visualization, and I aim to help busines
 ---
 ### 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abinayagoudjandhyala)    
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/abinayagoud)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinaya-goud-5ba185328/)  
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/abinayagoud23)
 ---
 ### 🔧 Skills & Tools
