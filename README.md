@@ -1,5 +1,5 @@
 
-# Hey there, I'm Abinaya Goud Jandhyala 👋
+# Hey there, I'm Abinaya Goud 👋
 
 **Data Enthusiast | SQL | Excel | Tableau | Power BI | Python**
 
