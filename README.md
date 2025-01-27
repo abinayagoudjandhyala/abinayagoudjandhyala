@@ -4,6 +4,8 @@
 **Data Enthusiast | SQL | Excel | Tableau | Power BI | Python**
 
 I am passionate about data analysis and visualization, and I aim to help businesses make data-driven decisions. Currently, I'm exploring data science, machine learning, and analytics through various projects.
+Check out my portfolio to Know more about my work and projects:  
+[Portfolio Website](https://accessible-aquarius-3c5.notion.site/Abinaya-Goud-186990c48fc7806c9890d1af183c26b7)
 
 ---
 ### 🌐 Connect with Me
