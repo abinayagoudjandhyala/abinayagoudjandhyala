@@ -13,9 +13,9 @@ Check out my portfolio to explore my work and projects:
 ## 🌐 Let's Connect  
 📌 Let's talk about data, insights, and everything in between!  
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abinayagoudjandhyala)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinaya-goud-5ba185328/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/abinayagoud23)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abinayagoudjandhyala)    
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinaya-goud-5ba185328/)  
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/abinayagoud23)
 
 ---
 
@@ -60,4 +60,3 @@ I love working with **databases, dashboards, and predictive models** to extract 
 ---  
 
 🌟 *"Empowering decisions through data"*  
-```
