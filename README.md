@@ -26,36 +26,11 @@ I love working with **databases, dashboards, and predictive models** to extract 
 
 ---
 
-## 🚀 Featured Projects  
-
-- **[COVID-19 Impact Analysis](https://github.com/abinayagoudjandhyala/COVID-19-Vaccine-Tracker)**  
-  📊 Analyzed the global impact of COVID-19 on different sectors using Python and Tableau.  
-
-- **[Walmart Sales Analysis](https://github.com/abinayagoudjandhyala/walmart-sales-analysis)**  
-  🛒 Conducted sales trend analysis on Walmart's product categories using SQL and PowerBI to derive key business insights.  
-
-- **[Cryptocurrency Report Generator](https://github.com/abinayagoudjandhyala/crypto-report-and-dashboard)**  
-  📈 Developed a Python tool that generates live cryptocurrency market reports using real-time data from APIs.  
-
-- **[Customer Sentiment Analysis](https://github.com/abinayagoudjandhyala/Customer-Sentiment-Analysis-Dashboard)**  
-  📊 Built a Power BI dashboard for customer sentiment analysis, featuring insights on NPS, CSAT, feedback trends, sentiment distribution, and root cause analysis.  
-
----
-
-## 📈 GitHub Stats & Top Languages  
+## 📈 GitHub Stats 
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=abinayagoudjandhyala&show_icons=true&theme=radical&hide_title=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinayagoudjandhyala&layout=compact&theme=radical&hide_title=true" width="48%" />
 </div>  
-
----
-
-## 📝 Let's Talk  
-
-💬 Feel free to ask me anything about data analysis and visualization.  
-📫 You can reach me on GitHub or LinkedIn!
-
   
 ---  
 
