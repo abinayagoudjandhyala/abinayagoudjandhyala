@@ -1,5 +1,5 @@
 
-# Hey there, I'm Abinaya Goud! 👋  
+# Hey there! I’m Abinaya. 👋  
 
 **Data Enthusiast | SQL | Excel | Tableau | Power BI | Python**  
 
@@ -30,8 +30,9 @@ I love working with **databases, dashboards, and predictive models** to extract 
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=abinayagoudjandhyala&show_icons=true&theme=radical&hide_title=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinayagoudjandhyala&layout=compact&theme=radical&hide_title=true" width="48%" />
 </div>  
   
 ---  
 
-🌟 *"Empowering decisions through data"*  
+🌟 *"Where Data Meets Strategy & Storytelling!"*  
