@@ -10,29 +10,4 @@ Check out my portfolio to explore my work and projects:
 
 ---
 
-## 🌐 Let's Connect  
-📌 Let's talk about data, insights, and everything in between!  
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abinayagoudjandhyala)    
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinaya-goud-5ba185328/)  
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/abinayagoud23)
-
----
-
-## 🔧 Skills & Tools  
-🚀 **SQL | Python | Excel | Tableau | Power BI**  
-
-I love working with **databases, dashboards, and predictive models** to extract valuable insights and craft compelling data stories.  
-
----
-
-## 📈 GitHub Stats 
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=abinayagoudjandhyala&show_icons=true&theme=radical&hide_title=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinayagoudjandhyala&layout=compact&theme=radical&hide_title=true" width="48%" />
-</div>  
-  
----  
-
 🌟 *"Where Data Meets Strategy & Storytelling!"*  
