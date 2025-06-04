@@ -2,7 +2,7 @@
 
 ### **Turning data into decisions | Building solutions line by line**  
 
-I wake up curious. Some days, I'm cleaning datasets and uncovering patterns that tell hidden stories. Other days, I'm deep in code, solving problems and building small pieces of the digital world. Right now, I'm growing my skills in both data and development - currently working through data structures (just conquered stacks and queues!) while building projects with MongoDB, Express, React, and Node.  
+I wake up curious. Some days, I'm cleaning datasets and uncovering patterns that tell hidden stories. Other days, I'm deep in code, solving problems and building small pieces of the digital world. Right now, I'm growing my skills in both data and development - currently working through data structures while building projects with MongoDB, Express, React, and Node.  
 
 I'm actively looking for opportunities where I can contribute my problem-solving skills, whether that's through data analysis or software development.  
 
