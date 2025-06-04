@@ -1,38 +1,36 @@
+# **Hi, I'm Abinaya** 👋  
 
-# Hey there! I’m Abinaya. 👋  
+### **Turning data into decisions | Building solutions line by line**  
 
-*Data Enthusiast | SQL | Excel | Tableau | Power BI | Python*  
+I wake up curious. Some days, I'm cleaning datasets and uncovering patterns that tell hidden stories. Other days, I'm deep in code, solving problems and building small pieces of the digital world. Right now, I'm growing my skills in both data and development - currently working through data structures (just conquered stacks and queues!) while building projects with MongoDB, Express, React, and Node.  
 
-I am deeply passionate about transforming raw data into meaningful insights that drive business decisions. With expertise in *data analysis, visualization, and storytelling, I thrive on uncovering trends and patterns that help organizations make data-driven choices. Currently, I'm diving into the world of **data science, machine learning, and advanced analytics* through hands-on projects.  
+I'm actively looking for opportunities where I can contribute my problem-solving skills, whether that's through data analysis or software development.  
 
-Check out my portfolio to explore my work and projects:  
-🔗 [*Portfolio Website*](https://accessible-aquarius-3c5.notion.site/Abinaya-Goud-186990c48fc7806c9890d1af183c26b7)  
-
----
-
-## 🌐 Let's Connect  
-📌 Let's talk about data, insights, and everything in between!  
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abinayagoudjandhyala)    
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinaya-goud-5ba185328/)  
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/abinayagoud23)
+🔗 **See my work:** [Portfolio](https://accessible-aquarius-3c5.notion.site/Abinaya-Goud-186990c48fc7806c9890d1af183c26b7)  
 
 ---
 
-## 🔧 Skills & Tools  
-🚀 *SQL | Python | Excel | Tableau | Power BI*  
+## **Let's Connect**  
 
-I love working with *databases, dashboards, and predictive models* to extract valuable insights and craft compelling data stories.  
+I'd love to chat about:  
+- Interesting data problems you're trying to solve  
+- Software projects you're working on  
+- Opportunities where I could contribute  
+
+[![LinkedIn](https://img.shields.io/badge/-Let's_talk_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinaya-goud-5ba185328/)  
+[![GitHub](https://img.shields.io/badge/-See_my_code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abinayagoudjandhyala)  
 
 ---
 
-## 📈 GitHub Stats 
+## **GitHub Pulse**  
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=abinayagoudjandhyala&show_icons=true&theme=radical&hide_title=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinayagoudjandhyala&layout=compact&theme=radical&hide_title=true" width="48%" />
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">  
+  <img src="https://github-readme-stats.vercel.app/api?username=abinayagoudjandhyala&show_icons=true&theme=radical&hide_title=true" width="48%" alt="My GitHub Stats" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinayagoudjandhyala&layout=compact&theme=radical&hide_title=true" width="48%" alt="Top Languages" />  
 </div>  
-  
----  
 
-🌟 "Where Data Meets Strategy & Storytelling!"
+---
+
+**"Every problem is just an interesting puzzle waiting to be solved."**  
+
+Let's connect and see how we can work together!  
