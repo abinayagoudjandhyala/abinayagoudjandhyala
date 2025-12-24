@@ -1,8 +1,8 @@
 # **Hi, I'm Abinaya** 👋  
 
-I translate data into insights and ideas into scalable solutions.  
-Currently exploring data structures and building projects with the MERN stack.  
-Open to opportunities in data analysis and software development.  
+I enjoy working with data and building simple software applications.
+Currently learning data structures and developing projects with the MERN stack.
+Actively looking for internships in software development and data analysis.
 
 ### **Connect With Me**
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abinayagoud.vercel.app/)
