@@ -12,11 +12,22 @@ Actively looking for internships in software development and data analysis.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abinayagoudjandhyala)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abinayagoud23)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abinayagoudjandhyala&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abinayagoudjandhyala&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abinayagoudjandhyala&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats
 
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=abinayagoudjandhyala&theme=dark&hide_border=false" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinayagoudjandhyala&theme=dark&hide_border=false&layout=compact" height="180"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=abinayagoudjandhyala&theme=dark&hide_border=false" height="180"/>
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
