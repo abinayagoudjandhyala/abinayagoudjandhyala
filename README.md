@@ -14,20 +14,12 @@ Actively looking for internships in software development and data analysis.
 
 # 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abinayagoudjandhyala&show_icons=true&theme=dark" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinayagoudjandhyala&layout=compact&theme=dark" width="48%"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=abinayagoudjandhyala&theme=dark&hide_border=false" height="180"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abinayagoudjandhyala&theme=dark" width="60%"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinayagoudjandhyala&theme=dark&hide_border=false&layout=compact" height="180"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=abinayagoudjandhyala&theme=dark&hide_border=false" height="180"/>
-
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
